@@ -8,6 +8,10 @@
 
 Get Todos
 
+#### Preview
+
+![Screenshot (265)](https://github.com/PritamSarbajna/fastapi-todo-api/assets/90236635/ab0690f8-aaa0-4ae7-a3e8-2f0a2d7d4379)
+
 ##### Responses
 
 | Code | Description |
@@ -18,6 +22,10 @@ Get Todos
 ##### Summary:
 
 Post Todo
+
+#### Preview 
+
+![Screenshot (266)](https://github.com/PritamSarbajna/fastapi-todo-api/assets/90236635/61c54e4b-4f01-44a7-a868-c9bf9531b44d)
 
 ##### Responses
 
@@ -32,6 +40,10 @@ Post Todo
 ##### Summary:
 
 Get Todo
+
+#### Preview 
+
+![Screenshot (267)](https://github.com/PritamSarbajna/fastapi-todo-api/assets/90236635/bfca6209-5106-4c78-a618-c87b651b312b)
 
 ##### Parameters
 
@@ -51,6 +63,10 @@ Get Todo
 
 Update Todo
 
+### Preview
+
+![Screenshot (268)](https://github.com/PritamSarbajna/fastapi-todo-api/assets/90236635/359ee191-8208-48dc-b3ce-1042ca5ad5bf)
+
 ##### Parameters
 
 | Name | Located in | Description | Required | Schema |
@@ -68,6 +84,10 @@ Update Todo
 ##### Summary:
 
 Delete Todo
+
+#### Preview
+
+![Screenshot (269)](https://github.com/PritamSarbajna/fastapi-todo-api/assets/90236635/9dbc5524-4680-4985-a390-e5a4dd1243ab)
 
 ##### Parameters
 
